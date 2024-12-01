@@ -55,7 +55,7 @@ const useWallet = ()=>{
     return {
         createWallet,
         receiveToken,
-        sendToken,
+        sendToken
     }
 };
 
